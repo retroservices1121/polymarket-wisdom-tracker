@@ -20,7 +20,7 @@
   "author": "Your Name",
   "license": "MIT",
   "dependencies": {
-    "@virtuals-protocol/game": "^1.0.0",
+    "@virtuals-protocol/game": "^0.1.14",
     "axios": "^1.6.0",
     "dotenv": "^16.3.1"
   },
