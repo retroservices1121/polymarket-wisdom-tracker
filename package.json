@@ -1,0 +1,30 @@
+{
+  "name": "polymarket-wisdom-tracker",
+  "version": "1.0.0",
+  "description": "AI Twitter bot tracking what the crowd thinks on Polymarket",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node src/index.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "polymarket",
+    "prediction-markets",
+    "twitter-bot",
+    "ai",
+    "virtuals",
+    "game",
+    "wisdom-of-crowds"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "@virtuals-protocol/game": "^1.0.0",
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
